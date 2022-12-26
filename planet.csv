@@ -1,25 +1,25 @@
-name
+name, has_life, description, distance, spherical, age, star_id
 
-Mercury
+Mercury, false, Mercury is a rocky planet, also known as a terrestrial planet, 77, true, 4.6, 3
 
-Venus
+Venus, false, one of the four terrestrial planets in the Solar System, 40, true, 4.6, 6
 
-Earth
+Earth, true, An ellipsoid with a circumference of about 40,000 km., 0, true, 4.45, 4
 
-Mars
+Mars, false, Cold desert world, 140, true, 4.6, 7
 
-Jupiter
+Jupiter, false, Gas giant, 367, true, 4.50, 1
 
-Saturn
+Saturn, false, It is a gas giant with an average radius of about nine and a half times that of Earth., 1.67, true, 4.6, 2
 
-Uranus
+Uranus, false, Seventh planet from the Sun, 2.9, true, 4.6, 3
 
-Neptune
+Neptune, false, Neptune is the eighth planet from the Sun and the farthest known solar planet., 4.4, true, 17.6, 5
 
-Pluto
+Pluto, false, Dwarf planet, 5.05, true, 4.5, 2
 
-Ceres
+Ceres, false, Dwarf planet too, 5.80, true, 4.5, 5
 
-Charon
+Charon, false, Dwarf planet moon, 5.06, true, 4.5, 2
 
-2003 UB313
+2003 UB313, false, celestial object, 6, true, 0, 1
