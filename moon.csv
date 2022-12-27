@@ -1,41 +1,41 @@
-Name, Parent planet, Name meaning
+Name, Parent planet, distance_to_planet, planet_id
 
-Moon,Earth,month, 384400, 3
+Moon,Earth, 384400, 4
 
-Phobos,Mars,Greek god of fear and panic, 2618, 4
+Phobos,Mars, 2618, 5
 
-Deimos,Mars,Greek god of dread and terror., 23460, 4
+Deimos,Mars, 23460, 5
 
-Io,Jupiter,Ancestor to Perseus., 262000,5
+Io,Jupiter, 262000,22
 
-Europa,Jupiter,Mother of king Minos of Crete., 414000,5
+Europa,Jupiter, 414000,22
 
-Ganymede,Jupiter,Male hero of Troy., 1070400,5
+Ganymede,Jupiter, 1070400,22
 
-Callisto,Jupiter,One of the nymphs., 1880000,5
+Callisto,Jupiter, 1880000,22
 
-Amalthea,Jupiter,Foster-mother of Zeus., 181000,5
+Amalthea,Jupiter, 181000,22
 
-Himalia,Jupiter,Nymph of the island of Rhodes., 4400000,5
+Himalia,Jupiter, 4400000,22
 
-Elara,Jupiter,Daughter of king Orchomenus and mother of the giant Tytios., 4277900,5
+Elara,Jupiter, 4277900,22
 
-Pasiphae,Jupiter,Queen of Crete., 18000000,5
+Pasiphae,Jupiter, 18000000,22
 
-Sinope,Jupiter,Daughter of Ares and one of the Amazons., 528845,5
+Sinope,Jupiter, 528845,22
 
-Lysithea,Jupiter,Mother of Heracles and Zeus., 18,5
+Lysithea,Jupiter, 18,22
 
-Carme,Jupiter,Mother of Britomartis., 22,5
+Carme,Jupiter, 22,22
 
-Ananke,Jupiter,Personification of necessity., 6788,5
+Ananke,Jupiter, 6788,22
 
-Leda,Jupiter,Aetolian princess and later Spartan queen., 6,5
+Leda,Jupiter, 6,22
 
-Thebe,Jupiter,Name used by a few of Zeus’ daughters., 140,5
+Thebe,Jupiter, 140,22
 
-Adrastea,Jupiter,Goddess of “inevitable fate”., 4624,5
+Adrastea,Jupiter, 4624,22
 
-Metis,Jupiter,First wife of Zeus and mother of Athena., 5990,5
+Metis,Jupiter, 5990,22
 
-Callirrhoe,Jupiter,One of the Oceanids, 422,5
+Callirrhoe,Jupiter, 422,22
